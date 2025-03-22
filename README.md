@@ -142,5 +142,4 @@ Each chapter is structured as a separate Typst file for modularity:
 - **Academic Supervisor**: Vincent Choqueuse
 - **Company Supervisor**: Mathilde Menoret
 
----
-"# internship_report_typst_enib" 
+--- 
