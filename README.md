@@ -108,7 +108,7 @@ To generate the PDF report:
 ### Typst Templates
 
 - **`template.typ`**: The primary template defining the structure of the report.
-- **`cover.typ`**: Defines the report cover page, including ENIB logos and branding.
+- **`cover.typ`**: Defines the report cover page, including ENIB logos and branding.     
 
 ### Chapters
 
